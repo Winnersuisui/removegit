@@ -1,0 +1,286 @@
+sThMnMCB
+Spring@789
+Summer@789
+Autumn@789
+Winner@789
+
+http://oa.asiainfo.com/
+
+http://dmp.asiainfo.com
+
+--约考
+610925small@
+
+--健康检查平台
+http://10.131.153.151:8090/aiHealth/monitor.html
+
+1NJ171545M
+
+--医保
+186321xyf
+
+--慕课
+1502935xyf
+
+--github
+xueyf
+420658716@qq.com
+1502935xyf
+
+--git
+git config --global user.name "suisuismall"
+git config --global user.email "420658716@qq.com"
+
+
+--百度云盘
+suisuismall
+1502935xyf
+
+积分
+Winner@123
+
+！@34
+
+Summer!123$
+
+8743 9315
+
+
+altib
+abCD!@34
+
+
+15029357477
+
+
+XIao)%16
+
+credit : g66b!@YL
+billing : Fa!866tt
+
+874928166
+
+13909200097
+
+10.131.54.70
+billing acct
+ABcd!@34
+
+Fa!866tt
+
+54.72
+代理：156.5 10080
+
+
+51job  15029357477
+suisui610
+
+-------fw
+666321xyf
+suisuismall
+
+-------hcp
+666321xyf
+suisuismall
+
+
+薛
+612102195312171316
+文
+612102195310201323
+
+
+
+param kCe!Z31Fe!Z
+
+echo "open 10.131.54.70\nuser billing ABcd!@34\n"|ftp -ni
+
+
+route add 10.131.0.0 mask 255.255.0.0 10.131.67.1 -p
+
+########sxhanxi
+route add 10.131.0.0 mask 255.255.0.0 10.131.68.250 -p
+
+######route add 0.0.0.0 mask 0.0.0.0 10.131.68.250 -p
+
+
+route add 10.131.156.5 mask 255.255.0.0 10.131.67.1 -p
+
+route add 10.131.0.0 mask 255.255.0.0 10.135.203.250 -p
+
+
+
+aee
+处理流程：
+前台收费过来流程：
+1. 7001 和 7003（天猫） 
+上账 销账 通知（发短信调信控接口） 
+如果是抵扣期间生成补销工单（上账 生成补销工单11到task, 通知 处理tf_b_charge_task表数据 销账 扭转成通知工单14 完工）
+a.上账，通知
+2.大账户缴费（tf_b_charge_task）
+销账（判是不是处于抵扣期间 在的话扭转成补销工单11,处理流程和上边的7001一样,不在的话扭转生成13工单通知工单）
+3.前台异步缴费 将数据插入到payloc_chk表然后通过aee处理
+4.前台收费 界面 实时缴费,调接口充值销账，通知（异步）；
+5.7020异步话费收费取，调充值接口同（7001）
+6.7021批量地州赠送 调缴费接口，发赠送短信
+
+insert into act_account_owefee_03 values (1707121810691837,11470,11470,20160301224509)
+
+
+Markdown文本编辑  
+
+下载jar
+http://mvnrepository.com/
+
+
+销号规则，非实名制停机  金钻卡特权取消营销活动取消额度
+
+单目 算术 移位 关系 逻辑 赋值 条件
+逻辑低于关系
+移位比算术低， 比关系高
+== != 比其他关系低
+& ^ |
+
+
+python:
+输入字符串用引号或双引号，数字不用
+l[a:b]开始位置包含结束位置不包含
+bool and a or b 在a真情况，bool为真取a 然则取b
+
+
+Dmpsn123
+
+1nj140878m
+1nj160028m
+
+02988616883
+
+
+6237 6325
+
+
+[2016]9198 
+
+Cre!456
+
+0010900103071263
+706794
+
+axure需求分析工具  xshell 文件名毫秒级搜索工具:everything   剪贴帮增强工具: ditto。 idea，java代码开发集成IDE环境。
+C++ prim 154 第四章
+
+int abc() VIIL
+int abc[3] III
+int **abc() X
+int (*abc)()  XI
+int (*abc)[6]   IV
+int *abc() IX
+int **(*abc[6])() XVL
+int **abc[6]  VIL  VII
+int *(*abc)[6] VIL  VI
+int *(*abc())() XXL  XIX
+int (**(*abc)())() XXL  XXI
+int (*(*abc)())[6] XXVL  XXIII
+int *(*(*(*abc)())[6])() XXV
+
+
+
+./mload -f=/ngdata/billing_data01/datacopydump/5/tf_f_user_1.dat                -ctl=/ngboss/billing/user/xueyf/mdb_yh/mloadfile/5/TF_F_USER_1.cfg                               >/ngdata/billing_data01/datacopydump/5/log/04.log  &
+
+
+
+
+10.131.154.222
+10.131.154.223
+
+billing
+密码：    Sn@cmcc!0902
+
+
+
+TF_F_CUST_STAR
+TF_F_USER_REMIND
+TF_F_USER_REMINDATTR
+TF_F_OCBS_USER
+TF_F_USER_SERTRACK_LOG
+TF_F_USER_MEMBER
+TF_F_USER_MEMBER_VB
+TF_F_USER_MEMBER_VB
+TF_F_USER_TRUNKINFO
+TF_F_USER_ACCTDAY
+TF_F_ACCOUNT_ACCTDAY
+TF_F_INTEGRAL_ACCOUNT
+TF_F_SCORERELATION
+TF_F_INTEGRAL_PLAN_INSTANCE
+TF_F_RELATION_BANK
+TF_F_CUST_VIP_SELFDEF
+TF_F_USER_NETNP
+TF_F_CENPAY
+TF_F_USER_CENPAY
+TF_F_ACCTRELATION
+TF_F_FEEPOLICY
+TF_F_FEEPOLICY_PARAM
+TF_F_SHARE_FEEPOLICY
+TF_F_SHARE_RELATION
+TF_F_SHARE_FEEPOLICY_INFO
+TF_F_ACCOUNT_CONSIGN
+TF_F_USER
+TF_F_USER_BRANDCHANGE
+TF_F_FIXEDFEE_SPECINFO
+TF_F_USER_SPECIALEPAY
+TF_F_USER_MEMBER
+TF_F_USER_IMPORTINFO
+TF_F_USER_SERV
+TF_F_USER_SERVSTATE
+TF_F_USER_SERVPARAM
+TF_F_USER_OTHERINFO
+TF_F_USER_SP
+TF_F_USER_TRADEFEE
+TF_F_USER_EA
+TF_F_USER_EA_SUB
+-----
+TF_F_PAYRELATION
+TF_F_USER_FOREGIFT
+TF_F_POSTINFO
+TF_F_USER_DEDUCT
+TF_F_USER_SVCALLOWANCE
+TF_F_USER_RENT
+TF_F_CUSTOMER
+TF_F_CUST_PERSON
+TF_F_CUST_GROUP
+TF_F_CUST_VIP
+TF_F_CUST_GROUPMEMBER
+TF_F_ACCOUNT
+TF_F_USER_IMPU
+
+Summer!123$
+
+valgrind --tool=memcheck --leak-check=yes --show-reachable=yes --log-file=record.txt odframe -i /sngrp/billapp/config/run/bill_notification1_ts_2260/bill_notification1_ts_2260_3696_1.xml -m -f cpf
+
+
+
+
+
+
+
+
+
+
+
+开始运行，输入：uninstalledp.exe，操作系统32位。
+
+64位的系统进入，syswow64，直接查找，uninstalledp.exe，双击运行文件。
+
+32位，64位系统运行卸载程序后，需要告诉我卸载码，我这边需要计算卸载密码才能卸载，直接@我，请把各自电脑搬到锦业路联网后在联系我。
+
+以上2个系统，运行卸载命令的方法。改完IP后需要从新安装北信源客户端，安装客户端下载到桌面，点客户端，点右键以管理员身份运行安装，如果弹出窗口，全部点信任，通过。WIN7以上系统从新下载北信源终端管理软件，winXP系统直接安装，下载客户端页面http://10.131.58.239/vrveis/yzcp.html
+
+1nj160392m
+
+
+
+
+
+
+
+日常需求分析，开发，系统割接，系统维护
